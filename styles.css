@@ -1,3 +1,12 @@
-body {
-  background: orange;
+
+#d1{
+  width: 200px;
+  height: 200px;
+  border: 5px solid black;
+
+  text-align: center;
+  top: 20px;
+  padding-top: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(149, 182, 182);
 }
